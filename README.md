@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @naazahmed
-- 👀 I’m interested in developing code.
-- 🌱 I’m currently learning unity 3d game development.
-- 📫 How to reach me - https://www.instagram.com/naaz_ahmed_/
-                        https://www.facebook.com/Naaz.Ahmed.0.786/
+- 👋 Hi, I’m Mohammed Naaz Ahmed. People call me just 'Naaz'.
+- 👀 Passionate about writing efficient code, optimizing existing code, and debugging to ensure smooth functionality.
+- 🌱 Currently upskilling on - Unity 3D Game Development, Generative AI, Big Data Concepts
+- 📫 How to reach me - https://www.linkedin.com/in/md-naaz-ahmed-319667202/
